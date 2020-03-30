@@ -15,6 +15,10 @@ def Author
     add_post(title)
   end
 
+  def posts
+
+  end
+
   def post_count
     Post.all.length
   end
