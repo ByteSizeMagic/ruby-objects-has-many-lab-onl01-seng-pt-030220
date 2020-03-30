@@ -6,8 +6,8 @@ def Author
     @name = name
   end
 
+  def add_post
 
-
-
+  end
 
 end
